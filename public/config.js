@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Leaderboard",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "TRADE $TRENCHDEX, https://dexscreener.com/solana/t4mbifahscjb9ngvggsynrkvc7a3a3c3477cufp2cf3",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
