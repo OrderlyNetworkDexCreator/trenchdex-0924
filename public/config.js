@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/trench_dex",
   "VITE_SEO_SITE_NAME": "TrenchDex",
   "VITE_SEO_SITE_DESCRIPTION": "TrenchDex is the degen pit stop for memecoin trenchers, where apes dive headfirst into the mud hunting that 100x. No suits, no safety nets, just raw liquidity and pure meme warfare.",
   "VITE_SEO_SITE_URL": "https://trenchdex.fun",
