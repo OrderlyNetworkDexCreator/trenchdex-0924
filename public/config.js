@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "TrenchDex is the degen pit stop for memecoin trenchers, where apes dive headfirst into the mud hunting that 100x. No suits, no safety nets, just raw liquidity and pure meme warfare.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Leaderboard,Rewards,Vaults",
+  "VITE_ENABLED_MENUS": "Portfolio,Trading,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "TrenchDex",
   "VITE_SEO_SITE_DESCRIPTION": "TrenchDex is the degen pit stop for memecoin trenchers, where apes dive headfirst into the mud hunting that 100x. No suits, no safety nets, just raw liquidity and pure meme warfare.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/trenchdex-0924/",
+  "VITE_SEO_SITE_URL": "https://trenchdex.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "trenches, crypto, dex, perps, trenchdex, solana, memecoin",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
